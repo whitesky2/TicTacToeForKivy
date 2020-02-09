@@ -1,4 +1,4 @@
-# TicTacToeForKivy
+# TicTacToeForKivy(VS A.I.)
 To execute this tictactoe game, You must install kivy on your computer. You can download kivy below url:
 https://kivy.org/#home
 
